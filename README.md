@@ -1,2 +1,2 @@
 # pythonsederhana
-File Assignment Course Basic Python
+Folder Assignment Course Basic Python
